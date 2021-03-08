@@ -109,7 +109,7 @@ Please list the people who will be serving in each role. Include the primary pho
 - Participant recruiting & screening: Perigean
 - Project point of contact: Ashley Matthews (419-203-5629)
 - Participant(s) for pilot test: TBD
-- Note-takers (1 per session): Ashley Matthews, Bridget Hapner, Ambika Roos
+- Note-takers (1 per session): Ashley Matthews, Melissa Lefevre, Narin Ratana, Ambika Roos
 - Observers: 
 	- Alex Taylor ([alex@adhocteam.us](alex@adhocteam.us))
 	- Ambika Roos ([ambika@adhocteam.us](ambika@adhocteam.us))
@@ -125,3 +125,5 @@ Please list the people who will be serving in each role. Include the primary pho
 	- Emily Mann ([emily.mann1@va.gov](mailto:emily.mann1@va.gov))
 	- Martha Wilkes ([martha.wilkes@va.gov](mailto:martha.wilkes@va.gov)) 
 	- Leanna Miller ([leanna.miller@va.gov](mailto:leanna.miller@va.gov))
+	- Melissa Lefevre ([melissa.lefevre@adhocteam.us]
+	- 
